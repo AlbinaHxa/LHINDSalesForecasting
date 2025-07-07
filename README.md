@@ -69,6 +69,8 @@ The hybrid model delivers strong test accuracy, outperforming baseline approache
 - Average monthly sales by store-product (heatmap)
 - Residual error distribution (histogram)
 - Feature importances (bar chart)
+![image](https://github.com/user-attachments/assets/44b99913-c1c7-41eb-8009-82299da7438c)
+![image](https://github.com/user-attachments/assets/17a6e721-4426-4e3a-a860-62799c354cba)
 
 ---
 
